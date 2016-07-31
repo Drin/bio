@@ -1,0 +1,6 @@
+[package]
+name = "bio"
+version = "0.1.0"
+authors = ["Aldrin Montana <drinmontana@gmail.com>"]
+
+[dependencies]
