@@ -6,16 +6,16 @@ common/necessary metadata.
 ## TODO
 TODO list (initially) includes:
 * DNA
-** sequences
-** variants
-** alleles
-** dna bases
+  * sequences
+  * variants
+  * alleles
+  * dna bases
 * RNA
-** transcripts
-** rna bases
+  * transcripts
+  * rna bases
 * Proteins
-** amino acids
+  * amino acids
 * Representations of:
-** molecular transitions/alterations/mutations
-** bonding strengths
-** macromolecules
+  * molecular transitions/alterations/mutations
+  * bonding strengths
+  * macromolecules
